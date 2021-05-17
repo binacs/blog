@@ -1,0 +1,11 @@
+version: '3.1'
+
+services:
+  blog_dc:
+    container_name: blog_dc
+    image: binacslee/docsify:latest
+    volumes:
+      - ./:/work/docs
+    ports:
+      - 3000:3000
+
