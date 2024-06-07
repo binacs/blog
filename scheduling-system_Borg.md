@@ -2,7 +2,7 @@
 
 ## 1 Introduction
 
-![borg-arch](https://raw.githubusercontent.com/BinacsLee/blog/main/img/borg-arch.svg)
+![borg-arch](https://raw.githubusercontent.com/binacs/blog/main/img/borg-arch.svg)
 
 
 
@@ -28,7 +28,7 @@
 
 The following figure illustrates the states that jobs and tasks go through during their lifetime.
 
-![borg-state-machine](https://raw.githubusercontent.com/BinacsLee/blog/main/img/borg-state-machine.svg)
+![borg-state-machine](https://raw.githubusercontent.com/binacs/blog/main/img/borg-state-machine.svg)
 
 
 

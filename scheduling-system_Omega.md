@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-![omega-arch](https://raw.githubusercontent.com/BinacsLee/blog/main/img/omega-arch.svg)
+![omega-arch](https://raw.githubusercontent.com/binacs/blog/main/img/omega-arch.svg)
 
 We identified the two prevalent scheduler architectures shown in Figure 1. *Monolithic schedulers* use a single, centralized scheduling algorithm for all jobs (our existing scheduler is one of these). *Two-level* schedulers have a single active resource manager that offers compute resources to multiple parallel, independent “scheduler frameworks”, as in Mesos [13] and Hadoop-on-Demand [4].
 
