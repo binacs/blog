@@ -1,5 +1,5 @@
 # blog
-Basic files for https://blog.binacs.cn
+Source: https://github.com/binacs/blog
 
 
 

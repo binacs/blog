@@ -10,10 +10,10 @@
 
 5000.0 FLT = $3k+
 
-![Fluence](https://raw.githubusercontent.com/BinacsLee/blog/main/img/blockchain/Fluence.jpg)
+![Fluence](https://raw.githubusercontent.com/binacs/blog/main/img/blockchain/Fluence.jpg)
 
 ## [Taiko](https://taiko.xyz/)
 
 602.0 TAIKO = $1k+
 
-![Taiko](https://raw.githubusercontent.com/BinacsLee/blog/main/img/blockchain/TAIKO.jpg)
+![Taiko](https://raw.githubusercontent.com/binacs/blog/main/img/blockchain/TAIKO.jpg)
