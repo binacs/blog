@@ -8,7 +8,15 @@
 
 -   [2024] [Interpretation of the SoCC paper: How ByteDance performs unified resource scheduling in large-scale clusters / SoCC 论文解读：字节跳动如何在大规模集群中进行统一资源调度](https://mp.weixin.qq.com/s/1nLD3QykR1eLuV9umyOCYg)
 
+> **About Colocation**
+>
+> The left figure below describes the resource allocation of online and offline tasks in a cluster over a period of time. In the initial stage, online tasks do not consume many resources, and a large amount of computing resources are allocated to offline tasks with lower priority. When the resource demand of online tasks surges due to a special event (emergency, hot search, etc.), Gödel immediately allocates resources to online tasks, and the resource allocation of offline tasks decreases rapidly. After the peak, online tasks begin to reduce resource requests, and the scheduler shifts resources to offline tasks again. By combining offline pools and dynamic resource transfer, ByteDance can always maintain a high resource utilization rate. During the evening peak hours, the average resource rate of the cluster reaches more than 60%, and it can also be maintained at around 40% during the daytime trough stage.
+>
+> ![colocation](https://raw.githubusercontent.com/binacs/blog/main/img/godel/colocation.webp)
 
+
+
+---
 
 ## ML on Gödel
 
@@ -62,7 +70,7 @@
 
 
 
-## Hybrid Deployment
+## Hybrid Deployment (Colocation)
 
 -   [2023] [The secret to reducing costs and increasing efficiency: How Douyin Group implements tidal co-location / 降本增效的秘密：抖音集团如何实践潮汐混部](https://mp.weixin.qq.com/s/dRqge-_BnbK1WsmXo6OuBw)
 
