@@ -1,4 +1,6 @@
->   https://kccncossaidevchn2024.sched.com/event/1eYWt/how-to-increase-the-throughput-of-kubernetes-scheduler-by-tens-of-times-kuberneteshoy-jzha-hao-pan-yuquan-ren-bing-li-bytedance?iframe=no
+>   Session: https://kccncossaidevchn2024.sched.com/event/1eYWt/how-to-increase-the-throughput-of-kubernetes-scheduler-by-tens-of-times-kuberneteshoy-jzha-hao-pan-yuquan-ren-bing-li-bytedance?iframe=no
+> 
+>   Recording: https://www.youtube.com/watch?v=_ayPdIVs_SI
 
 # How to Increase the Throughput of Kubernetes Scheduler by Tens of Times
 
