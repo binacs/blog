@@ -36,6 +36,13 @@
 
 -   [2023] [ByteDance Flink's large-scale cloud-native practice / 字节跳动 Flink 大规模云原生化实践](https://mp.weixin.qq.com/s/a0w4NMcpetigk58YhANS6Q)
 
+-   [2024] [How ByteDance improves resource efficiency for large-scale Spark jobs / 字节跳动如何对大规模 Spark 作业进行资源提效](https://mp.weixin.qq.com/s/LUV1z3EJc9xq-rzXWF4bZA)
+
+> Paper link: [Towards Resource Efficiency: Practical Insights into Large-Scale Spark Workloads at ByteDance](https://www.vldb.org/pvldb/vol17/p3759-shi.pdf)
+
+-   [2024] [ResLake: Analysis of ByteDance's unified management system for multi-data center resources / ResLake: 字节跳动多机房资源统一管理系统解析](https://mp.weixin.qq.com/s/EDGTZWQTgb3uUJ4s7uXZCQ)
+
+> Paper link: [ResLake: Towards Minimum Job Latency and Balanced Resource Utilization in Geo-distributed Job Scheduling](https://www.vldb.org/pvldb/vol17/p3934-kashaf.pdf)
 
 
 ---
